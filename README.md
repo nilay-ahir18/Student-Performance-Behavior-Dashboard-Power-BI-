@@ -257,7 +257,6 @@ Provides navigation between Academic View and Behavior View.
 
 ![Mobile Layout](Screenshots/13_Mobile_Layout1.png)
 
-![Mobile Layout](Screenshots/13_Mobile_Layout2.png)
 
 Shows the dashboard optimized for mobile devices.
 
